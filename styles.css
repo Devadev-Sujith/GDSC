@@ -1,0 +1,53 @@
+h1{
+    background-color: seashell;
+    color: blue;
+    font-size: 64px;
+    margin-left: 20px;
+    padding: 10px;
+}
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+h2{
+    color:aqua;
+}
+
+.landing{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 32px;
+}
+
+
+.about p{
+    margin-left: 50px;
+}
+
+
+h2{
+    color: #537FE7;
+}
+
+.myProjects{
+    display:flex;
+}
+
+.Project{
+    margin: 2.5%;
+    list-style: none;
+    width: 33%;
+    background-color: goldenrod;
+    height:20vh;
+}
+
+.Project:hover{
+    background-color: brown;
+}
+
+.about{
+    margin-left: auto;
+}
